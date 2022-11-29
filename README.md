@@ -6,8 +6,10 @@ This is a object-oriented programming course project.
 
 This repository contains:
 1. Brief introduction
-2. How to install and execute
-2. Authors
+2. Dependencies
+3. How to install and execute
+4. Supported commands
+5. Authors
 
 ## Brief introduction
 
@@ -19,6 +21,7 @@ Common features like undo and redo are also supported.
 
 - Java 11 environment
 - Intellij IDEA IDE (Recommended, but it can also be compiled in shell.)
+
 ## How to install and execute
 
 To install this project, you can simply download the source code 
