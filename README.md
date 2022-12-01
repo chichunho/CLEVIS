@@ -5,15 +5,17 @@ CLEVIS stands for **C**ommand **L**in**E**
 This is a object-oriented programming course project.
 
 This repository contains:
-1. Brief introduction
+1. Description
 2. Dependencies
 3. How to install and execute
 4. Supported commands
 5. Authors
 
-## Brief introduction
+## Description
 
-User should be able to create and manipulate vector graphics containing shapes like line segments, circle, rectangles and squares using CLEVIS.
+Year: 2021
+
+CLEVIS provide function of creating and manipulating vector graphics containing shapes like line segments, circle, rectangles and squares.
 Common features like undo and redo are also supported.
 
 
